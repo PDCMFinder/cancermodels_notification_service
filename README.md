@@ -1,2 +1,2 @@
-# cancermodels_notification_service
+# Cancermodels notification service
 Notification service for availability of new model information in collaborative resources.
