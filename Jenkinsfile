@@ -6,6 +6,7 @@ pipeline {
                 echo 'Building'
                 echo 'python version is .. '
                 sh 'python --version'
+                sh 'python3 --version'
             }
         }
     }
