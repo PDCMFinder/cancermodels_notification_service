@@ -1,0 +1,779 @@
+model_id	host_strain_name	host_strain_nomenclature	engraftment_site	engraftment_type	sample_type	sample_state	passage_number	publications	Provider
+HCI-001	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	cleared mammary fat pad	Not provided	solid	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-001	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	cleared mammary fat pad	Not provided	solid	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-002	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	cleared mammary fat pad	Not provided	solid	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-002	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	cleared mammary fat pad	Not provided	solid	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-003	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	cleared mammary fat pad	Not provided	solid	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-003	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	cleared mammary fat pad	Not provided	solid	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-004	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	cleared mammary fat pad	Not provided	solid	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-004	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	cleared mammary fat pad	Not provided	solid	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-005	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	cleared mammary fat pad	Not provided	suspension in matrigel	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-005	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	cleared mammary fat pad	Not provided	suspension in matrigel	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-006	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	cleared mammary fat pad	Not provided	suspension in matrigel	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-006	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	cleared mammary fat pad	Not provided	suspension in matrigel	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-007	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	cleared mammary fat pad	Not provided	suspension in matrigel	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-007	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	cleared mammary fat pad	Not provided	suspension in matrigel	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-008	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	cleared mammary fat pad	Not provided	suspension in matrigel	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-009	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	cleared mammary fat pad	Not provided	suspension in matrigel	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-009	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	cleared mammary fat pad	Not provided	suspension in matrigel	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-010	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	cleared mammary fat pad	Not provided	suspension in matrigel	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-010	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	cleared mammary fat pad	Not provided	suspension in matrigel	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-011	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	cleared mammary fat pad	Not provided	suspension in matrigel	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-011	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	cleared mammary fat pad	Not provided	suspension in matrigel	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-012	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	cleared mammary fat pad	Not provided	suspension in matrigel	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-012	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	cleared mammary fat pad	Not provided	suspension in matrigel	Not provided	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-013	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	cleared mammary fat pad	Not provided	suspension in matrigel	Not provided	0	PMID: 35221336	HCI-BCM
+HCI-013	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	cleared mammary fat pad	Not provided	suspension in matrigel	Not provided	0	PMID: 35221336	HCI-BCM
+HCI-015	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	cleared mammary fat pad	Not provided	solid	Not provided	0	PMID: 35221336	HCI-BCM
+HCI-015	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	cleared mammary fat pad	Not provided	solid	Not provided	0	PMID: 35221336	HCI-BCM
+HCI-016	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	cleared mammary fat pad	Not provided	solid	Not provided	0	PMID: 35221336	HCI-BCM
+HCI-016	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	cleared mammary fat pad	Not provided	solid	Not provided	0	PMID: 35221336	HCI-BCM
+HCI-017	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	cleared mammary fat pad	Not provided	solid	Not provided	0	PMID: 35221336	HCI-BCM
+HCI-017	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	cleared mammary fat pad	Not provided	solid	Not provided	0	PMID: 35221336	HCI-BCM
+HCI-018	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	cleared mammary fat pad	Not provided	solid	Not provided	0	PMID: 35221336	HCI-BCM
+HCI-018	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	cleared mammary fat pad	Not provided	solid	Not provided	0	PMID: 35221336	HCI-BCM
+HCI-019	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	cleared mammary fat pad	Not provided	solid	Not provided	0	PMID: 35221336	HCI-BCM
+HCI-019	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	cleared mammary fat pad	Not provided	solid	Not provided	0	PMID: 35221336	HCI-BCM
+BCM-0002	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-0046	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-0104	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-0132	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-2147	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-2277	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-2665	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-3107	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-3143	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-3204	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-3472	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-3887	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-3904	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-3936	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-3963	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-4013	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-4169	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-4175	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-4189	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Ascites cells	Not provided	0		HCI-BCM
+BCM-4195	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-4272	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-4664	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-4849	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-4888	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-5097	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-5156	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-5438	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-5471	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-6257	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-7482	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-7649	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-7821	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+BCM-8563	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Orthotopic; mammary gland	Not provided	Tissue Fragment	Not provided	0		HCI-BCM
+HCI-008	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Cleared mammary fat pad	heterotopic	Pleural effusion	Fresh	0	"PMID: 22019887, PMID: 35221336"	HCI-BCM
+HCI-014	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Cleared mammary fat pad	heterotopic	Pleural effusion	Frozen donor specimen	0	PMID: 35221336	HCI-BCM
+HCI-032EI	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Cleared mammary fat pad	heterotopic	PDX tissue fragment into OVX mice	Fresh	1	PMID: 35221336	HCI-BCM
+HCI-040EI	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Cleared mammary fat pad	heterotopic	PDX tissue fragment into OVX mice	Fresh	1	PMID: 35221336	HCI-BCM
+HCI-042	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Cleared mammary fat pad	orthotopic	Breast	Fresh	0	PMID: 35221336	HCI-BCM
+HCI-043	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Cleared mammary fat pad	orthotopic	Breast	Fresh	0	PMID: 35221336	HCI-BCM
+HCI-044	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Cleared mammary fat pad	heterotopic	Breast	Fresh	0	PMID: 35221336	HCI-BCM
+HCI-044EI	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Cleared mammary fat pad	heterotopic	PDX tissue fragment into OVX mice	Fresh	1	PMID: 35221336	HCI-BCM
+HCI-045	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Cleared mammary fat pad	orthotopic	Breast	Fresh	0	PMID: 35221336	HCI-BCM
+HCI-046	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Cleared mammary fat pad	orthotopic	Breast	Fresh	0	PMID: 35221336	HCI-BCM
+HCI-047	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Cleared mammary fat pad	heterotopic	Ascites	Frozen donor specimen	0	PMID: 35221336	HCI-BCM
+HCI-048	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Cleared mammary fat pad	orthotopic	Breast	Fresh	0	PMID: 35221336	HCI-BCM
+HCI-049	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Cleared mammary fat pad	orthotopic	Breast	Frozen donor specimen	0	PMID: 35221336	HCI-BCM
+HCI-050	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Cleared mammary fat pad	heterotopic	Breast	Fresh	0	PMID: 35221336	HCI-BCM
+HCI-051	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Cleared mammary fat pad	heterotopic	Ascites	Fresh	0	PMID: 35221336	HCI-BCM
+HCI-052	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Cleared mammary fat pad	orthotopic	Breast	Fresh	0	PMID: 35221336	HCI-BCM
+HCI-053	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Cleared mammary fat pad	orthotopic	Breast	Fresh	0	PMID: 35221336	HCI-BCM
+HCI-054	NOD scid	NOD.CB17-Prkdc<sup>scid</sup>/J	Cleared mammary fat pad	orthotopic	Breast	Fresh	0	PMID: 35221336	HCI-BCM
+425	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+B1001	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B1002/C0997	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B1003	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B1006	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B1008	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B1011	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B1015	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B1021	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B1022	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B1025	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B1029	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8001	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8008	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8009	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8010	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8016	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8020	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8021	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8025	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8026	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8032	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8034	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8043	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8046	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8048	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8056	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8057	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8061	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8063	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8069	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8078	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8086	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8087	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8090	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8093	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8097	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8101	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8104	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8114	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8120	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8131	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+B8134	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+BCX.006	Nude	Nude	Flank (s.c)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.009	Nude	Nude	Flank (s.c)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.010	Nude	Nude	Flank (s.c)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.011	Nude	Nude	Flank (s.c)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.017	Nude	Nude	Flank (s.c)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.022	Nude	Nude	Flank (s.c)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.024	Nude	Nude	Flank (s.c)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.042	Nude	Nude	Flank (s.c)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.051	Nude	Nude	Flank (s.c)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.055	Nude	Nude	Flank (s.c)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.060	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Flank (s.c)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.065	Nude	Nude	Flank (s.c)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.066	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Mammary Fat-Pad (direct)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.070	Nude	Nude	Mammary Fat-Pad (direct)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.080	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Mammary Fat-Pad (direct)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.084	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Mammary Fat-Pad (direct)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.087	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Mammary Fat-Pad (direct)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.092	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Mammary Fat-Pad (direct)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.094	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Mammary Fat-Pad (direct)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.095	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Mammary Fat-Pad (direct)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.096	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Mammary Fat-Pad (direct)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.099	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Mammary Fat-Pad (direct)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.100	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Mammary Fat-Pad (direct)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.102	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Mammary Fat-Pad (direct)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.104	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Mammary Fat-Pad (direct)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BCX.105	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Mammary Fat-Pad (direct)	Not provided	Tumor Solid	Not provided	0	PMID: 29093017	MDAnderson
+BM8095	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+BS8088	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+BS8107	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C0998	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C0999	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1003	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1004	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1005	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1008	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1009	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1010	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1011	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1012	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1013	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1014	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1016	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1018	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1021	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1022	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1023	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1025	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1026	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1028	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1030	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1031	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1032	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1033	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1035	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1037	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1040	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1041	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1042	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1044	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1045	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1047	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1051	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1053	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1054	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1058	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1062	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1066	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1068	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1069	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1070	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1071	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1075	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1086	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1087	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1092	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1114	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1117	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1122	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1137	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1138	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1141	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1142	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1143	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1144	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1148	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1151	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1157	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1159	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1163	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1166	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1168	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1174	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1177	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1179	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C1186	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5001	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5002	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5003	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5004	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5005	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5006	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5007	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5008	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5009	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5010	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5011	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5012	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5013	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5014	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5015	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5016	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5017	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5018	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5019	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5020	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+C5021	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+E4001	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+E4002	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+E4005	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+E4013	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+E4016	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+E4017	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+E4022	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+F3004	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+F3008	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+F3018	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+F3020	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+F3026	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+F3028	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+F3036	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+F3042	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+F3048	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+F3050	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+F3053	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+F3064	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+F3065	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+H6005	NGS	Not Provided	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+HCC4034	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4044	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4058	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4059	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4064	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4068	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4080	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4082	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4083	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4087	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4088	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4089	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4090	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4092	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4133	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4145	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4170	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4185	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4186	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4188	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4190	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4193	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4196	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+HCC4207	Not Provided	Not Provided	Not provided	Not provided	Not provided	Not provided	0		MDAnderson
+N2003	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+O0002	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+O0008	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+O0013	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+O0021	NOG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Sug</sup>/JicTac	Subcutanious Flank	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC114	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0	PMID: 25444907	MDAnderson
+TC117	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1	PMID: 25444907	MDAnderson
+TC133	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	2	PMID: 25444907	MDAnderson
+TC137	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0	PMID: 25444907	MDAnderson
+TC142	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0	PMID: 25444907	MDAnderson
+TC145	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0	PMID: 25444907	MDAnderson
+TC152	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0	PMID: 25444907	MDAnderson
+TC154	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1	PMID: 25444907	MDAnderson
+TC162	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0	PMID: 25444907	MDAnderson
+TC164	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0	PMID: 25444907	MDAnderson
+TC168	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0	PMID: 25444907	MDAnderson
+TC169	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0	PMID: 25444907	MDAnderson
+TC172	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0	PMID: 25444907	MDAnderson
+TC209	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0	PMID: 25444907	MDAnderson
+TC211	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0	PMID: 25444907	MDAnderson
+TC219	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC223	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC241	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC247	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC250	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC253	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	2		MDAnderson
+TC255	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	2		MDAnderson
+TC257	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC258	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC260	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC282	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC286	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC290	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC303	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC312	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC314	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC316	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC318	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	2		MDAnderson
+TC319	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	2		MDAnderson
+TC330	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC333	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	2		MDAnderson
+TC349	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC353	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	2		MDAnderson
+TC358	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC359	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC366	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC370	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC371	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC372	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	2		MDAnderson
+TC373	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	2		MDAnderson
+TC375	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC380	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC383	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	2		MDAnderson
+TC384	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC385	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC386	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC388	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC389	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC391	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC393	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC395	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC396	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	2		MDAnderson
+TC397	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC400	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC402	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC403	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC404	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC405	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	2		MDAnderson
+TC406	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC411	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	2		MDAnderson
+TC422	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC423	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	2		MDAnderson
+TC424	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	2		MDAnderson
+TC427	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC429	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC430	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC431	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC434	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	2		MDAnderson
+TC435	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC436	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC438	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC441	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC442	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC445	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	2		MDAnderson
+TC449	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC451	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC453	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC454	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC455	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	2		MDAnderson
+TC461	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC462	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC464	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC466	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC467	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC468	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC470	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC471	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	1		MDAnderson
+TC474	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC476	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC479	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC481	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC485	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0	PMID: 25444907	MDAnderson
+TC488	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0	PMID: 25444907	MDAnderson
+TC490	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC491	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC494	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC495	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC496	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC497	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC503	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC76	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+TC78	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	Subcutaneous	Not provided	Tumor Solid	Not provided	0		MDAnderson
+WBM550	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WCM214	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WCS190	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WDB227	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WDD203	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WGK569	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WGM222	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WGS170	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WLG158	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WLH6215	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WLM159	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WNB210	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WND238	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WPM171	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WRC604	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WRC897	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WRL159	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WRR214	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WSP172	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WTH202	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3703	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3899	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3913-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3913	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3918	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3928	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3932	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3933	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3937	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3961	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3964	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3978	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3993	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3997	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4003	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4007	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4052	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4067	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4073-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4077	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4073-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4113	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4115	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4125	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4150	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4160	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4173	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4174	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4175	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4180	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4182	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3901-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3903-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4188	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4191	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3907-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3915-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4196	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3908	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3909	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4198	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3915-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3921	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3922-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3924	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3926	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3927	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3929	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3934	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3935	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3936-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3940	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3941-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3942	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3939-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3936-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3960	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3963-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3965-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3971	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3972	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3973	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3974	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3983	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3988-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3991	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3992	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3994-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4008 -1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4023	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4024	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4031	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4032	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4033-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4035	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4037	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4033-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4039-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4045	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4053-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4055	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4061	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4068	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4070-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4071-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3994-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4070-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4071-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4089	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4099	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4096	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4200	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4205-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4205-3	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4206	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4208	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4210-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4211-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4223	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4224	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4226	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4228	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4231-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4233	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4231-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4235	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4237-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4242	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4243	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4247	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4248	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4249	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4250	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4251	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4420-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4420-3	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4420-4	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4420-5	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4420-6	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4254	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4255	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4257	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4260	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4262	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4263	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4264-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4265-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4265-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4266	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4267	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3994-3	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4274	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4280	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4285	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4286-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4237-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4292	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4295-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4299-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4299-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4299-3	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4299-4	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4018-7	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4301	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4303	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4304	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+wm4306-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4314-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4319	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4264-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4318-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4295-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4295-3	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4323	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4324	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4329	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4330	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+wm4331	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4335-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4339-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4340	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4342	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4237-3	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4346	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4348	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4350	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4351-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4352	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4353	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4359-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4359-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4360	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4364-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4365	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4367	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4276-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4369	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4314-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4258-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4258-4	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4237-4	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4376-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4336-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4386	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4388	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4389	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4390	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4391	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4239	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4398	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4399	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4400-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4400-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4404-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4404-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4408	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4336-4	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4336-5	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4380-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4419	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4426	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4430	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4431	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4432	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4351-3	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4440	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4442	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4443	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4445	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4451	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4454	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4460	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4011-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4011-3	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4479	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4481-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4257-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4486	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4494	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4495	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4505-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4298-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM3901-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4516	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4518	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4465-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4521	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4525	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4543-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4549-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4551	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4552-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4555-1	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4556	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4552-2	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4568	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WM4279	NSG 	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	 subcutaneous implant or injection;  low back /flank	Not provided	Solid tumor	Not provided	0		WISTAR-MDAnderson-Penn
+WU-SHIM2	Not provided	Not provided	Not provided	Not provided	Not provided	Not provided	0		WUSTL
+WU-SHIM3	Not provided	Not provided	Not provided	Not provided	Not provided	Not provided	0		WUSTL
+WU-SHIM4	Not provided	Not provided	Not provided	Not provided	Not provided	Not provided	0		WUSTL
+WU-SHIM5	Not provided	Not provided	Not provided	Not provided	Not provided	Not provided	0		WUSTL
+WU-SHIM6	Not provided	Not provided	Not provided	Not provided	Not provided	Not provided	0		WUSTL
+WU-SHIM7	Not provided	Not provided	Not provided	Not provided	Not provided	Not provided	0		WUSTL
+WU-SHIM9	Not provided	Not provided	Not provided	Not provided	Not provided	Not provided	0		WUSTL
+WU-SHIM11	Not provided	Not provided	Not provided	Not provided	Not provided	Not provided	0		WUSTL
+WU-SHIM12	Not provided	Not provided	Not provided	Not provided	Not provided	Not provided	0		WUSTL
+WU-SHIM13	Not provided	Not provided	Not provided	Not provided	Not provided	Not provided	0		WUSTL
+WU-SHIM19	Not provided	Not provided	Not provided	Not provided	Not provided	Not provided	0		WUSTL
+WU-105-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-116-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-117-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-121-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-123-08	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-129-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-139-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-148-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-150-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-158-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-159-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-162-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-167-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-174-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-175-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-185-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-186-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-187-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-191-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-191-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-200-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-222-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-242-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-254-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-266-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-268-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-268-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-277-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-287-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-287-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-292-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-292_2-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-299-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-301-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-315-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-318-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-322-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-322-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-324-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-329-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-334-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-343-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-343-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-345-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-349-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-354-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-356_2-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-369-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-374-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-393-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-394-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-397-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-402-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-432-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-440-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-445-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-45-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-459-9	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-459-10	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-465-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-470-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-478-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-516-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-655-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-655-08	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-658-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-658-09	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-669-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-674-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-73-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-738-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-739-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-745-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-803-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-822-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-84-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-845-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-881-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-911-06	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-911-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-95-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-978-07	NOD SCID	NOD.CB17-Prkdc<sup>scid</sup>/J	dorsal flank	heterotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM2	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM3	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM4	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM5	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM6	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM8	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM9	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM10	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM11	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM12	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM13	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM14	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM16	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM17	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM18	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM20	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM21	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM22	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM23	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM24	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM25	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM26	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM30	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM35	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM37	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
+WU-WHIM43	NSG	NOD.Cg-Prkdc<sup>scid</sup> Il2rg<sup>tm1Wjl</sup>/SzJ	mammary fat pad	orthotopic	Not provided	Not provided	0		WUSTL
