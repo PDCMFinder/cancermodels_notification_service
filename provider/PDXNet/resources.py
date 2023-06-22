@@ -1,5 +1,6 @@
 file_paths = {
     'JAX_endpoint_reference_file': 'https://tumor.informatics.jax.org/PDXInfo/PDXInfoTSV/PDXNetAllModels.tsv',
+    'JAX_reference_file': 'temp/temp.tsv',
     'patient': 'input/PDXNet/PDXNet_patient.csv',
     'sample': 'input/PDXNet/PDXNet_sample.csv',
     'model': 'input/PDXNet/PDXNet_model.csv',
