@@ -11,7 +11,7 @@ class PDXNet_data_transformations():
     def __init__(self):
         self.flag = None
         self.PDXNet_models = None
-        self.ref_data = pd.read_csv(self.file_paths['JAX_endpoint_reference_file'], sep='\t')
+        self.ref_data = pd.read_csv(self.file_paths['JAX_reference_file'], sep='\t')
         self.transformations = transform.data_transformations()
 
     def process_models(self):
