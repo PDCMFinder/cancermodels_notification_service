@@ -16,5 +16,4 @@ prod_notification_service:
     refs:
       - main
   script:
-    - curl https://tumor.informatics.jax.org/PDXInfo/PDXInfoTSV/PDXNetAllModels.tsv >> temp/temp.tsv
     - python3 main.py
